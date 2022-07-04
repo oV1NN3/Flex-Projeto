@@ -4,4 +4,5 @@
 
 - README.md
 - index.html
+- style.css
 - /assets
