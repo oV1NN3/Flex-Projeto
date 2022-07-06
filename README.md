@@ -5,7 +5,7 @@
 - README.md
 - index.html
 - style.css
- - assets
+ - assets (exeplos)
     - 0-display-flex.html
     - 1-flex-direction.html
     - 2-flex-wrap.html
@@ -19,4 +19,11 @@
     - 10-flex.html
     - 11-order.html
     - 12-align-self.html
+
+### Objetivo
+
+Apresentar os fundamentos e aplicações da
+propriedade flexbox na criação de layouts
+responsivos, sem a necessidade a definição de
+valores fixos.
 
