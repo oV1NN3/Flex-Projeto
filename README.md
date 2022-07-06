@@ -6,8 +6,8 @@
 - index.html
 - style.css
 - /assets
- - /img
-  - /css
+    - /img
+    - /css
 0-display-flex.html
 1-flex-direction.html
 2-flex-wrap.html
