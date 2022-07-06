@@ -27,3 +27,11 @@ propriedade flexbox na criação de layouts
 responsivos, sem a necessidade a definição de
 valores fixos.
 
+#### Flex Container
+É a tag que envolve os itens, será nela que iremos aplicar a
+propriedade “display: flex”. Transforma todos os seus itens filhos
+em flex itens.
+####Flex Item
+São os elementos filhos diretos do Flex Container. E também
+podem se tornar Flex Container.
+####
