@@ -1,4 +1,8 @@
 # project flexbox DIO
+Apresentar os fundamentos e aplicações da
+propriedade flexbox na criação de layouts
+responsivos, sem a necessidade a definição de
+valores fixos.
 
 ### Estrutura de arquivos
 
@@ -19,24 +23,18 @@
     - 10-flex.html
     - 11-order.html
     - 12-align-self.html
-
-### Objetivo
-
-Apresentar os fundamentos e aplicações da
-propriedade flexbox na criação de layouts
-responsivos, sem a necessidade a definição de
-valores fixos.
-
-#### Flex Container
-É a tag que envolve os itens, será nela que iremos aplicar a
-propriedade “display: flex”. Transforma todos os seus itens filhos
-em flex itens.
-
-####Flex Item
-São os elementos filhos diretos do Flex Container. E também
-podem se tornar Flex Container.
-
-####Display: flex;
-Torna a tag um elemento do tipo flex container, e assim
-automaticamente todos os seus filhos diretos desta tag, tornamse
-em flex items.
+ 
+### Os exeplos abordam:
+1. Flex Container
+2. Flex Item
+3. Display: flex;
+4. Flex-direction
+5. Flex-wrap
+6. Flex-flow
+7. Justify Content
+8. Align-items
+9. Align-content
+10. Flex-grow
+11. Flex-shrink
+12. Flex
+13. Align-self
